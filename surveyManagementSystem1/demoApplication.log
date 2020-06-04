@@ -1,0 +1,3936 @@
+----------Welcome to Survey Management System----------
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+respondentUsername: Respondent
+respondentPassword: Respondent@1
+Login Successful
+***WELCOME RESPONDENT***
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+----------Welcome to Survey Management System----------
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+Login successful
+***WELCOME ADMIN***
+Please select any of the following options .
+RULE:between [0-9] min 1 and max 2 only these are allowed.
+1.Add Surveyor
+2.Add Respondent
+3.Login as Surveyor
+4.Login as Respondent
+5.View all Surveyors
+6.View all Respondents
+7.Exit
+Add Respondent
+Enter Respondent Username: Accepts only [a-z][A-Z][0-9] space min: 2 and max: 20
+Enter a valid Respondentusername: Accepts only [a-z][A-Z][0-9] space min:2 and max: 20
+Enter Respondent Password:  Accepts only [a-z][A-Z][0-9] [.%$#@] min:4 and max: 20
+Enter a valid password:  Accepts only [a-z][A-Z][0-9] [.%$#@] min : 4 and max:20 
+----------Welcome to Survey Management System----------
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+surveyorUsername: Surveyor
+surveyorPassword: Surveyor@1
+Login successful
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Login successful
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Add Survey
+Enter SurveyId: Accepts only [0-9]min: 1 and max: 10
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+Login successful
+***WELCOME ADMIN***
+Please select any of the following options .
+RULE:between [0-9] min 1 and max 2 only these are allowed.
+1.Add Surveyor
+2.Add Respondent
+3.Login as Surveyor
+4.Login as Respondent
+5.View all Surveyors
+6.View all Respondents
+7.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+Login successful
+Please select any of the following options 
+1.Add Surveyor
+2.Add Respondent
+3.Login as Surveyor
+4.Login as Respondent
+5.View all Surveyors
+6.View all Respondents
+7.Exit
+Enter a valid choice
+Please select any of the following options 
+1.Add Surveyor
+2.Add Respondent
+3.Login as Surveyor
+4.Login as Respondent
+5.View all Surveyors
+6.View all Respondents
+7.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Login successful
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+respondentUsername: respondent
+respondentPassword: respondent
+Login Successful
+1.Respond to Survey
+2.View Response
+3.View all responded surveys
+4.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+Enter valid choice
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+Login successful
+Please select any of the following options 
+1.Add Surveyor
+2.Add Respondent
+3.Login as Surveyor
+4.Login as Respondent
+5.View all Surveyors
+6.View all Respondents
+7.Exit
+Enter a valid choice
+Please select any of the following options 
+1.Add Surveyor
+2.Add Respondent
+3.Login as Surveyor
+4.Login as Respondent
+5.View all Surveyors
+6.View all Respondents
+7.Exit
+Enter a valid choice
+Please select any of the following options 
+1.Add Surveyor
+2.Add Respondent
+3.Login as Surveyor
+4.Login as Respondent
+5.View all Surveyors
+6.View all Respondents
+7.Exit
+Surveyor Login
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Login successful
+Select Your Option
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Enter valid choice
+Select Your Option
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Delete Survey
+Enter a SurveyId:
+deleted successfully
+Select Your Option
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Delete Survey
+Enter a SurveyId:
+deleted successfully
+Select Your Option
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Delete Survey
+Enter a SurveyId:
+deleted successfully
+Select Your Option
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Delete Survey
+Enter a SurveyId:
+deleted successfully
+Select Your Option
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Update Survey
+Please Enter the survey id to update
+Enter SurveyId:
+true
+Updated Successfully
+Select Your Option
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Update Survey
+Please Enter the survey id to update
+Enter SurveyId:
+true
+Updated Successfully
+Select Your Option
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Enter valid choice
+Select Your Option
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Enter valid choice
+Select Your Option
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Update Survey
+Please Enter the survey id to update
+Enter SurveyId:
+true
+Updated Successfully
+Select Your Option
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Login successful
+Select Your Option
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Update Survey
+Please Enter the survey id to update
+Enter SurveyId:
+true
+
+Select Your Option
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Login successful
+Select Your Option
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Update Survey
+Please Enter the survey id to update
+Enter SurveyId:
+true
+
+Select Your Option
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Update Survey
+Please Enter the survey id to update
+Enter SurveyId:
+true
+
+Select Your Option
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Update Survey
+Please Enter the survey id to update
+Enter SurveyId:
+true
+
+Select Your Option
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Update Survey
+Please Enter the survey id to update
+Enter SurveyId:
+true
+
+Select Your Option
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Update Survey
+Please Enter the survey id to update
+Enter SurveyId:
+true
+
+Select Your Option
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Login successful
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Update Survey
+please enter the survey id to update
+Enter SurveyId: which must be between [0-9] and min 1 and max 10
+true
+
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Update Survey
+please enter the survey id to update
+Enter SurveyId: which must be between [0-9] and min 1 and max 10
+Please enter valid Id: which must be between [0-9] and min 1 and max 10
+true
+
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Delete Survey
+Enter a SurveyId: which must be between [0-9] and min 1 and max 10
+Survey Id not found
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Delete Survey
+Enter a SurveyId: which must be between [0-9] and min 1 and max 10
+Survey Id not found
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Delete Survey
+Enter a SurveyId: which must be between [0-9] and min 1 and max 10
+Survey Id not found
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+View Survey
+please enter the survey title to view: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+Survey Title Not Found
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+View Survey
+please enter the survey title to view: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+Survey Title Not Found
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+view All Surveyes
+Details of all Surveys !!
+[SurveyDetails [surveyId=1.
+, surveyTitle=Big Basket.
+, surveyDescription=Big Basket is the Online supermarket,It offers groceries,Food,Vegetables...any many more for its customers.
+, question1=How much you are Satisfied with Our Big Basket Application.
+ , question2=How is our delivery service.
+, question3=Please rate us from [1-5].
+, question4=If,Any complaints regarding our app please mention.
+, question5=Please Share Your Experience with Our Big Basket App.
+, q1Option1=Good.
+, q1Option2=Not Bad.
+, q1Option3=Very Good.
+, q1Option4=Bad.
+, q2Option1=Good.
+, q2Option2=Not Bad.
+, q2Option3=Very Good.
+, q2Option4=Bad.
+], SurveyDetails [surveyId=2.
+, surveyTitle=Phonepe.
+, surveyDescription=Phonepe is an Indian e-commerce payment systemand it is the first payment app built on UPI .
+, question1=How much are you satisfied with the Phonepe Application .
+, question2=How much is the phonepe website used to solve your issues.
+, question3=Please rate us from [1-5].
+, question4=If any complaints regarding our app please mention here.
+, question5=Please share your Experience with our Phonepe App.
+, q1Option1=Good.
+, q1Option2=Not Bad.
+, q1Option3=Very Good .
+, q1Option4=Bad.
+, q2Option1=Good.
+, q2Option2=Not Bad.
+, q2Option3=Very Good.
+, q2Option4=Bad.
+]]
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Update Survey
+please enter the survey id to update
+Enter SurveyId: which must be between [0-9] and min 1 and max 10
+true
+
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Update Survey
+please enter the survey id to update
+Enter SurveyId: which must be between [0-9] and min 1 and max 10
+true
+
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Delete Survey
+Enter a SurveyId: which must be between [0-9] and min 1 and max 10
+Survey Id not found
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Update Survey
+please enter the survey id to update
+Enter SurveyId: which must be between [0-9] and min 1 and max 10
+true
+
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Enter valid choice
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Update Survey
+please enter the survey id to update
+Enter SurveyId: which must be between [0-9] and min 1 and max 10
+true
+
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Add Survey
+Enter SurveyId: Accepts only [0-9]min: 1 and max: 10
+Enter SurveyTitle: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+Enter SurveyDescription: Accepts only [a-z][A-Z][.*]space,min: 1 and max: 200
+Enter Question1 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter valid question1: Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter q1option1 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter valid q1option1: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q1option2 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q1option3 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q1option4 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter Question2: Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter q2option1 :Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option2 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option3 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option4 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter Question3 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+****Please Enter the Rating type of Question****
+Enter Question4 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter the question which contains single line Answers
+Enter Question5 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter the question which has descriptive form of answer
+survey added sucessfully
+
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Update Survey
+please enter the survey id to update
+Enter SurveyId: which must be between [0-9] and min 1 and max 10
+Request Done
+*************UPDATE DETAILS*******************
+update surveytitle : Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Login successful
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Add Survey
+Enter SurveyId: Accepts only [0-9]min: 1 and max: 10
+Enter SurveyTitle: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+Enter SurveyDescription: Accepts only [a-z][A-Z][.*]space,min: 1 and max: 200
+Enter Question1 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter q1option1 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q1option2 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q1option3 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q1option4 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter Question2: Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter q2option1 :Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option2 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option3 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option4 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter Question3 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+****Please Enter the Rating type of Question****
+Enter Question4 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter the question which contains single line Answers
+Enter Question5 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter the question which has descriptive form of answer
+survey added sucessfully
+
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+please enter valid choice: Accepts only [1-6]
+View Survey
+please enter the survey title to view: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+SurveyDetails [surveyId=12, surveyTitle=sdfghj, surveyDescription=kjhgfdesw, question1=lkjhgfdsw, question2=iuytfrdesw, question3=jhgtfrdew, question4=kjhgfrdew, question5=kjhgfdew, q1Option1=kjhgfds, q1Option2=kfdsw, q1Option3=oiuytrew, q1Option4=iuhygfdsa, q2Option1=iuytrew, q2Option2=iuytrew, q2Option3=uhygtfrew, q2Option4=kujhygtfrew]
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Delete Survey
+Enter a SurveyId: which must be between [0-9] and min 1 and max 10
+deleted successfully
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+View Survey
+please enter the survey title to view: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+Survey Title Not Found
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+View Survey
+please enter the survey title to view: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+Survey Title Not Found
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+Enter username: 
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+UserName: null
+Password: null
+Enter username: 
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+UserName: null
+Password: null
+Enter username: 
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+respondentUserName: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Please Enter Valid  password 
+Please Enter Valid  password 
+Please Enter Valid  password 
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+respondentUserName: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+respondentUserName: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+respondentUserName: respondent
+respondentPassword: respondent
+Enter username: 
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+respondentUserName: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+respondentUserName: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+respondentUserName: respondent
+respondentPassword: respondent
+Enter username: 
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+respondentUserName: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Login Successful
+1.Respond to Survey
+2.View Response
+3.View all responded surveys
+4.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+respondentUserName: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Login Successful
+1.Respond to Survey
+2.View Response
+3.View all responded surveys
+4.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+ Enter valid choice from [1-4]
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+respondentUserName: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+respondentUserName: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+respondentUserName: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+respondentUserName: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+respondentUserName: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Login Successful
+1.Respond to Survey
+2.View Response
+3.View all responded surveys
+4.Exit
+Respond to survey
+Enter SurveyId
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Login successful
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+View Survey
+please enter the survey title to view: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+enter valid SurveyTitle: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+enter valid SurveyTitle: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+enter valid SurveyTitle: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+enter valid SurveyTitle: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+enter valid SurveyTitle: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+enter valid SurveyTitle: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+enter valid SurveyTitle: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+enter valid SurveyTitle: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+Survey Title Not Found
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+respondentUserName: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Login Successful
+1.Respond to Survey
+2.View Response
+3.View all responded surveys
+4.Exit
+View Response
+Please Enter respondentId :
+
+1.Respond to Survey
+2.View Response
+3.View all responded surveys
+4.Exit
+view All Responded Surveys
+view all Responded Surveys
+[RespondentDetails [respondentId=1.
+, answer1=Good.
+, answer2=Not Bad.
+, answer3=4.5.
+, answer4=Delivery time for products can be improved .
+, answer5=The Experience with this application is really good but if some changes are madeit will be too good.
+, surveyId=1.
+], RespondentDetails [respondentId=2.
+, answer1=Very Good.
+, answer2=Good.
+, answer3=3.0.
+, answer4=Sometimes the application is not working properly.
+, answer5=Phonepe is really Good it made our day easy with single click we are able to made transactions.
+, surveyId=2.
+]]
+1.Respond to Survey
+2.View Response
+3.View all responded surveys
+4.Exit
+Respond to survey
+Enter SurveyId
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+respondentUserName: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Login Successful
+1.Respond to Survey
+2.View Response
+3.View all responded surveys
+4.Exit
+Respond to survey
+Enter SurveyId
+Please Enter Valid  username 
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Login successful
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Add Survey
+Enter SurveyId: Accepts only [0-9]min: 1 and max: 10
+Enter SurveyTitle: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+Enter valid Title: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+Enter valid Title: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+Enter username: 
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Login Successful
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Add Survey
+Enter SurveyId: Accepts only [0-9]min: 1 and max: 10
+Enter SurveyTitle: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+Enter SurveyDescription: Accepts only [a-z][A-Z][.*]space,min: 1 and max: 200
+Enter Question1 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter q1option1 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q1option2 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q1option3 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q1option4 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter Question2: Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter q2option1 :Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option2 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option3 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option4 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter Question3 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+****Please Enter the Rating type of Question****
+Enter Question4 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter the question which contains single line Answers
+Enter Question5 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter the question which has descriptive form of answer
+survey added sucessfully
+
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Update Survey
+please enter the survey id to update
+Enter SurveyId: which must be between [0-9] and min 1 and max 10
+Request Done
+update surveytitle : Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+Enter valid title: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+update surveydescription : Accepts only [a-z][A-Z][.*]space,min: 1 and max: 200
+Update question 1: Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+update question1 option1:Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter valid q1option1: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+update question1 option2: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter valid q1option2: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+update question1 option3: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+update question1 option4: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Update question 2: Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter valid question2: Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+update question2 option1: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+update question2 option2: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+update question2 option3: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+update question2 option4: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Update question 3: Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter valid question3: Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Update question 4: Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Update question 5: Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+true
+Updated Successfully
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+please enter valid choice: Accepts only [1-6]
+Delete Survey
+Enter a SurveyId: which must be between [0-9] and min 1 and max 10
+deleted successfully
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+View Survey
+please enter the survey title to view: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+Survey Title Not Found
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+view All Surveyes
+Details of all Surveys !!
+[SurveyDetails [surveyId=1.
+, surveyTitle=Big Basket.
+, surveyDescription=Big Basket is the Online supermarket,It offers groceries,Food,Vegetables...any many more for its customers.
+, question1=How much you are Satisfied with Our Big Basket Application.
+ , question2=How is our delivery service.
+, question3=Please rate us from [1-5].
+, question4=If,Any complaints regarding our app please mention.
+, question5=Please Share Your Experience with Our Big Basket App.
+, q1Option1=Good.
+, q1Option2=Not Bad.
+, q1Option3=Very Good.
+, q1Option4=Bad.
+, q2Option1=Good.
+, q2Option2=Not Bad.
+, q2Option3=Very Good.
+, q2Option4=Bad.
+], SurveyDetails [surveyId=2.
+, surveyTitle=Phonepe.
+, surveyDescription=Phonepe is an Indian e-commerce payment systemand it is the first payment app built on UPI .
+, question1=How much are you satisfied with the Phonepe Application .
+, question2=How much is the phonepe website used to solve your issues.
+, question3=Please rate us from [1-5].
+, question4=If any complaints regarding our app please mention here.
+, question5=Please share your Experience with our Phonepe App.
+, q1Option1=Good.
+, q1Option2=Not Bad.
+, q1Option3=Very Good .
+, q1Option4=Bad.
+, q2Option1=Good.
+, q2Option2=Not Bad.
+, q2Option3=Very Good.
+, q2Option4=Bad.
+], SurveyDetails [surveyId=12, surveyTitle=edfhgmhgfd, surveyDescription=rgkyhfgtdf, question1=shjdgsfd, question2=efrghnjmh, question3=ewrgtdxhfcjvbn, question4=dfgsbdhfngh, question5=adfgvsdbfng, q1Option1=rtgyhjgm, q1Option2=gthyjutk, q1Option3=rthrj, q1Option4=wfgbhsnrdtjmkug, q2Option1=gehrdjtfg, q2Option2=erwetdyfugh, q2Option3=ertghfdjgmfn, q2Option4=whfgdj]]
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+UserName: null
+Password: null
+Enter username: 
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+adminUsername: Admin
+adminPassword: Admin@1
+Enter username: 
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+adminUsername: admin
+adminPassword: admin
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+adminUsername: admin
+adminPassword: admin
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+adminUsername: admin
+adminPassword: admin
+Enter username: 
+Enter password: 
+Login Successful
+Please select any of the following options 
+1.Add Surveyor
+2.Add Respondent
+3.Login as Surveyor
+4.Login as Respondent
+5.View all Surveyors
+6.View all Respondents
+7.Exit
+Add Surveyor
+Enter Surveyor Id :
+Enter Surveyor Username:
+Enter  Surveyor password:
+Enter mailId:
+Enter Contact Number:
+Surveyor added sucessfully
+Please select any of the following options 
+1.Add Surveyor
+2.Add Respondent
+3.Login as Surveyor
+4.Login as Respondent
+5.View all Surveyors
+6.View all Respondents
+7.Exit
+Respondent Login
+respondentUserName: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+respondentUserName: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Login Successful
+1.Respond to Survey
+2.View Response
+3.View all responded surveys
+4.Exit
+Please select any of the following options 
+1.Add Surveyor
+2.Add Respondent
+3.Login as Surveyor
+4.Login as Respondent
+5.View all Surveyors
+6.View all Respondents
+7.Exit
+Surveyor Login
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Login Successful
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Login Failed!
+Please enter Valid UserName or Password!!
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Login Successful
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Add Survey
+Enter SurveyId: Accepts only [0-9]min: 1 and max: 10
+Enter SurveyTitle: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+Enter SurveyDescription: Accepts only [a-z][A-Z][.*]space,min: 1 and max: 200
+Enter Question1 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter valid question1: Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter q1option1 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q1option2 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q1option3 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q1option4 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter Question2: Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter q2option1 :Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option2 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option3 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option4 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter Question3 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+****Please Enter the Rating type of Question****
+Enter Question4 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter the question which contains single line Answers
+Enter Question5 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter the question which has descriptive form of answer
+survey added sucessfully
+
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Delete Survey
+Enter a SurveyId: which must be between [0-9] and min 1 and max 10
+deleted successfully
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Login Failed!
+Please enter Valid UserName or Password!!
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Login Successful
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Logged Out Successfully
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+4.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+adminUsername: admin
+adminPassword: admin
+Enter username: 
+Enter password: 
+Login Successful
+Please select any of the following options 
+1.Add Surveyor
+2.Add Respondent
+3.Login as Surveyor
+4.Login as Respondent
+5.View all Surveyors
+6.View all Respondents
+7.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+Please Enter valid choice
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+adminUsername: admin
+adminPassword: admin
+Enter username: 
+Enter password: 
+Login Successful
+Please select any of the following options 
+1.Add Surveyor
+2.Add Respondent
+3.Login as Surveyor
+4.Login as Respondent
+5.View all Surveyors
+6.View all Respondents
+7.Exit
+Logged Out Successfully
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUserName: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Login Successful
+1.Respond to Survey
+2.View Response
+3.View all responded surveys
+4.Exit
+Respond to survey
+Enter SurveyId
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUserName: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Login Successful
+1.Respond to Survey
+2.View Response
+3.View all responded surveys
+4.Exit
+Respond to survey
+Enter SurveyId
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUserName: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+respondentUserName: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Login Successful
+1.Respond to Survey
+2.View Response
+3.View all responded surveys
+4.Exit
+Respond to survey
+Enter SurveyId
+1.Respond to Survey
+2.View Response
+3.View all responded surveys
+4.Exit
+Respond to survey
+Enter SurveyId
+1.Respond to Survey
+2.View Response
+3.View all responded surveys
+4.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Login Successful
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Add Survey
+Enter SurveyId: Accepts only [0-9]min: 1 and max: 10
+Enter SurveyTitle: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+Enter SurveyDescription: Accepts only [a-z][A-Z][.*]space,min: 1 and max: 200
+Enter Question1 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter q1option1 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q1option2 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q1option3 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q1option4 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter Question2: Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter q2option1 :Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option2 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option3 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option4 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter Question3 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+****Please Enter the Rating type of Question****
+Enter Question4 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter the question which contains single line Answers
+Enter Question5 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter the question which has descriptive form of answer
+survey added sucessfully
+
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Login Successful
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Add Survey
+Enter SurveyId: Accepts only [0-9]min: 1 and max: 10
+Enter SurveyTitle: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+Enter SurveyDescription: Accepts only [a-z][A-Z][.*]space,min: 1 and max: 200
+Enter Question1 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter q1option1 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q1option2 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q1option3 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q1option4 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter Question2: Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter q2option1 :Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option2 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option3 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option4 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter Question3 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+****Please Enter the Rating type of Question****
+Enter valid question3:Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter Question4 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter the question which contains single line Answers
+Enter Question5 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter the question which has descriptive form of answer
+survey added sucessfully
+
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Login Successful
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Add Survey
+Enter SurveyId: Accepts only [0-9]min: 1 and max: 10
+Enter SurveyTitle: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+Enter SurveyDescription: Accepts only [a-z][A-Z][.*]space,min: 1 and max: 200
+Enter Question1 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter q1option1 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q1option2 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q1option3 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q1option4 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter Question2: Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter q2option1 :Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option2 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option3 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter valid q2option3:Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option4 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter Question3 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+****Please Enter the Rating type of Question****
+Enter Question4 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter the question which contains single line Answers
+Enter Question5 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter the question which has descriptive form of answer
+Enter valid question5: Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter valid question5: Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+survey added sucessfully
+
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Login Successful
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Add Survey
+Enter SurveyId: Accepts only [0-9]min: 1 and max: 10
+Enter SurveyTitle: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+Enter SurveyDescription: Accepts only [a-z][A-Z][.*]space,min: 1 and max: 200
+Enter Question1 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter q1option1 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q1option2 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q1option3 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q1option4 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter Question2: Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter q2option1 :Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter valid q2option1: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option2 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option3 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter valid q2option3:Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter valid q2option3:Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter valid q2option3:Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter valid q2option3:Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option4 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter Question3 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+****Please Enter the Rating type of Question****
+Enter Question4 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter the question which contains single line Answers
+Enter Question5 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter the question which has descriptive form of answer
+Enter valid question5: Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+survey added sucessfully
+
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Login Successful
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Add Survey
+Enter SurveyId: Accepts only [0-9]min: 1 and max: 10
+Enter SurveyTitle: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+Enter SurveyDescription: Accepts only [a-z][A-Z][.*]space,min: 1 and max: 200
+Enter Question1 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter q1option1 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q1option2 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q1option3 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q1option4 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter Question2: Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter q2option1 :Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option2 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option3 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option4 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter Question3 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+****Please Enter the Rating type of Question****
+Enter Question4 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter the question which contains single line Answers
+Enter Question5 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter the question which has descriptive form of answer
+survey added sucessfully
+
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Delete Survey
+Enter a SurveyId: which must be between [0-9] and min 1 and max 10
+deleted successfully
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Login Successful
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Delete Survey
+Enter a SurveyId: which must be between [0-9] and min 1 and max 10
+Survey Id not found
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Login Successful
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Delete Survey
+Enter a SurveyId: which must be between [0-9] and min 1 and max 10
+Survey Id not found
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+View Survey
+please enter the survey title to view: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+Survey Title Not Found
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Login Successful
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+View Survey
+please enter the survey title to view: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+enter valid SurveyTitle: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+Survey Title Not Found
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+view All Surveys
+Details of all Surveys !!
+[SurveyDetails [surveyId=1.
+, surveyTitle=Big Basket.
+, surveyDescription=Big Basket is the Online supermarket,It offers groceries,Food,Vegetables...any many more for its customers.
+, question1=How much you are Satisfied with Our Big Basket Application.
+ , question2=How is our delivery service.
+, question3=Please rate us from [1-5].
+, question4=If,Any complaints regarding our app please mention.
+, question5=Please Share Your Experience with Our Big Basket App.
+, q1Option1=Good.
+, q1Option2=Not Bad.
+, q1Option3=Very Good.
+, q1Option4=Bad.
+, q2Option1=Good.
+, q2Option2=Not Bad.
+, q2Option3=Very Good.
+, q2Option4=Bad.
+]]
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Login Successful
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+view All Surveys
+Details of all Surveys !!
+[SurveyDetails [surveyId=1.
+ surveyTitle=Big Basket.
+ surveyDescription=Big Basket is the Online supermarket,It offers groceries,Food,Vegetables...any many more for its customers.
+ question1=How much you are Satisfied with Our Big Basket Application.
+  question2=How is our delivery service.
+ question3=Please rate us from [1-5].
+ question4=If,Any complaints regarding our app please mention.
+ question5=Please Share Your Experience with Our Big Basket App.
+ q1Option1=Good.
+ q1Option2=Not Bad.
+ q1Option3=Very Good.
+ q1Option4=Bad.
+ q2Option1=Good.
+ q2Option2=Not Bad.
+ q2Option3=Very Good.
+ q2Option4=Bad.
+]]
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Login Successful
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+view All Surveys
+Details of all Surveys !!
+[SurveyDetails [surveyId=1.
+ surveyTitle=Big Basket.
+ surveyDescription=Big Basket is the Online supermarket,It offers groceries,Food,Vegetables...any many more for its customers.
+ question1=How much you are Satisfied with Our Big Basket Application.
+  question2=How is our delivery service.
+ question3=Please rate us from [1-5].
+ question4=If,Any complaints regarding our app please mention.
+ question5=Please Share Your Experience with Our Big Basket App.
+ q1Option1=Good.
+ q1Option2=Not Bad.
+ q1Option3=Very Good.
+ q1Option4=Bad.
+ q2Option1=Good.
+ q2Option2=Not Bad.
+ q2Option3=Very Good.
+ q2Option4=Bad.
+]]
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Login Successful
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Update Survey
+please enter the survey id to update
+Enter SurveyId: which must be between [0-9] and min 1 and max 10
+true
+
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Login Successful
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Update Survey
+please enter the survey id to update
+Enter SurveyId: which must be between [0-9] and min 1 and max 10
+true
+
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Login Successful
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Add Survey
+Enter SurveyId:
+Enter SurveyTitle: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+Enter SurveyDescription: Accepts only [a-z][A-Z][.*]space,min: 1 and max: 200
+Enter Question1 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter q1option1 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q1option2 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q1option3 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q1option4 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter Question2: Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter q2option1 :Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option2 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option3 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter valid q2option3:Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option4 : Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter Question3 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+****Please Enter the Rating type of Question****
+Enter Question4 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter the question which contains single line Answers
+Enter Question5 : Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter the question which has descriptive form of answer
+survey added sucessfully
+
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Delete Survey
+Enter a SurveyId: which must be between [0-9] and min 1 and max 10
+deleted successfully
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Surveyor Login Successful
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Update Survey
+please enter the survey id to update
+Enter SurveyId: which must be between [0-9] and min 1 and max 10
+Request Done
+update surveytitle : Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Surveyor Login Successful
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Delete Survey
+Enter a SurveyId: which must be between [0-9] and min 1 and max 10
+deleted successfully
+***WELCOME SURVEYOR***
+Please select any one of the following options:  Accepts only [0-9]min: 1 and max: 2 
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Logged Out Successfully
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUserName: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Login Successful
+1.Respond to Survey
+2.View Response
+3.View all responded surveys
+4.Exit
+Respond to survey
+Enter SurveyId
+1.Respond to Survey
+2.View Response
+3.View all responded surveys
+4.Exit
+View Response
+Please Enter respondentId :
+
+1.Respond to Survey
+2.View Response
+3.View all responded surveys
+4.Exit
+View Response
+Please Enter respondentId :
+
+1.Respond to Survey
+2.View Response
+3.View all responded surveys
+4.Exit
+view All Responded Surveys
+view all Responded Surveys
+[RespondentDetails [respondentId=1
+, answer1=Good
+, answer2=Not Bad
+, answer3=4.5
+, answer4=Delivery time for products can be improved
+, answer5=The Experience with this application is really good but if some changes are madeit will be too good
+, surveyId=1
+], RespondentDetails [respondentId=2
+, answer1=Very Good
+, answer2=Good
+, answer3=3.0
+, answer4=Sometimes the application is not working properly
+, answer5=Phonepe is really Good it made our day easy with single click we are able to made transactions
+, surveyId=2
+]]
+1.Respond to Survey
+2.View Response
+3.View all responded surveys
+4.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+adminUsername: admin
+adminPassword: admin
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+adminUsername: admin
+adminPassword: admin
+Enter username: 
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUserName: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+respondentUserName: respondent
+respondentPassword: respondent
+Enter username: 
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Surveyor Login Successful
+Please select any one of the following options:
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Logged Out Successfully
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Surveyor Login Successful
+Please select any one of the following options:
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Surveyor Login Successful
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Surveyor Login Successful
+Please select any one of the following options:
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Update Survey
+please enter the survey id to update
+Enter SurveyId: which must be between [0-9] and min 1 and max 10
+Request Done
+update surveytitle : Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUserName: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Login Successful
+1.Respond to Survey
+2.View Response
+3.View all responded surveys
+4.Exit
+Respond to survey
+Enter SurveyId
+1.Respond to Survey
+2.View Response
+3.View all responded surveys
+4.Exit
+Respond to survey
+Enter SurveyId
+1.Respond to Survey
+2.View Response
+3.View all responded surveys
+4.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Surveyor Login Successful
+Please select any one of the following options:
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Add Survey
+Enter SurveyId:
+Enter SurveyTitle:
+Enter SurveyDescription:
+Enter valid Description: Accepts only [a-z][A-Z][.*]space,min: 1 and max: 200
+Enter Question1 :
+Enter valid question1: Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter q1option1 :
+Enter q1option2 :
+Enter q1option3 :
+Enter q1option4 :
+Enter Question2:
+Enter valid question2: Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter valid question2: Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter valid question2: Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter valid question2: Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter valid question2: Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+Enter q2option1 :
+Enter valid q2option1: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter q2option2 :
+Enter q2option3 :
+Enter q2option4 :
+Enter Question3 :
+Enter Question4 :
+Enter Question5 :
+Enter valid question5: Accepts only [a-z][A-Z][.*?] min: 1 and max:100
+survey added sucessfully
+
+Please select any one of the following options:
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Logged Out Successfully
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUserName: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Login Successful
+1.Respond to Survey
+2.View Response
+3.View all responded surveys
+4.Exit
+Respond to survey
+Enter SurveyId
+1.Respond to Survey
+2.View Response
+3.View all responded surveys
+4.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: null
+respondentPassword: respondent
+Login Successful
+***WELCOME RESPONDENT***
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+Respond to survey
+Enter surveyId to respond:which must be between [0-9] and min 1 and max 10
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Login Successful
+***WELCOME RESPONDENT***
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+Respond to survey
+Enter surveyId to respond:which must be between [0-9] and min 1 and max 10
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Login Successful
+***WELCOME RESPONDENT***
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+view All Responded Surveyes
+view all Responded Surveyes
+[RespondentDetails [respondentId=1
+, answer1=Good
+, answer2=Not Bad
+, answer3=4.5
+, answer4=Delivery time for products can be improved
+, answer5=The Experience with this application is really good but if some changes are madeit will be too good
+, surveyId=1
+], RespondentDetails [respondentId=2
+, answer1=Very Good
+, answer2=Good
+, answer3=3.0
+, answer4=Sometimes the application is not working properly
+, answer5=Phonepe is really Good it made our day easy with single click we are able to made transactions
+, surveyId=2
+]]
+***WELCOME RESPONDENT***
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+View Response
+please enter respondentId to view: which must be between [0-9] and min 1 and max 10
+
+***WELCOME RESPONDENT***
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Login Successful
+***WELCOME RESPONDENT***
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+Respond to survey
+Enter surveyId to respond:which must be between [0-9] and min 1 and max 10
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Login Successful
+***WELCOME RESPONDENT***
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+Respond to survey
+Enter surveyId to respond:which must be between [0-9] and min 1 and max 10
+1. null
+Select your option
+1. null
+2. null
+3. null
+4. null
+submit your option:from [1-4]
+2. null
+Select your option
+1. null
+2. null
+3. null
+4. null
+submit your option from [1-4]
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+adminUsername: admin
+adminPassword: admin
+Enter username: 
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Login Successful
+***WELCOME RESPONDENT***
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+Respond to survey
+Enter surveyId to respond:which must be between [0-9] and min 1 and max 10
+***WELCOME RESPONDENT***
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Login Successful
+***WELCOME RESPONDENT***
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+Respond to survey
+Enter surveyId to respond:which must be between [0-9] and min 1 and max 10
+***WELCOME RESPONDENT***
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+view All Responded Surveyes
+view all Responded Surveyes
+[RespondentDetails [respondentId=1
+ answer1=Good
+ answer2=Not Bad
+ answer3=4.5
+ answer4=Delivery time for products can be improved
+ answer5=The Experience with this application is really good but if some changes are madeit will be too good
+ surveyId=1
+], RespondentDetails [respondentId=2
+ answer1=Very Good
+ answer2=Good
+ answer3=3.0
+ answer4=Sometimes the application is not working properly
+ answer5=Phonepe is really Good it made our day easy with single click we are able to made transactions
+ surveyId=2
+]]
+***WELCOME RESPONDENT***
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Login Successful
+***WELCOME RESPONDENT***
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+Respond to survey
+Enter surveyId to respond:which must be between [0-9] and min 1 and max 10
+***WELCOME RESPONDENT***
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Login Successful
+***WELCOME RESPONDENT***
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+Respond to survey
+Enter surveyId to respond:which must be between [0-9] and min 1 and max 10
+***WELCOME RESPONDENT***
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Login Successful
+***WELCOME RESPONDENT***
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+Respond to survey
+Enter surveyId to respond:which must be between [0-9] and min 1 and max 10
+1. How much you are Satisfied with Our Big Basket Application
+ 
+Select your option
+1. Good
+
+2. Not Bad
+
+3. Very Good
+
+4. Bad
+
+submit your option:from [1-4]
+2. How is our delivery service
+
+Select your option
+1. Good
+
+2. Not Bad
+
+3. Very Good
+
+4. Bad
+
+submit your option from [1-4]
+3. Please rate us from [1-5]
+
+Enter your Rating from[1-5]
+Enter a valid Rating between 1-5
+Enter a valid Rating between 1-5
+Enter a valid Rating between 1-5
+Enter a valid Rating between 1-5
+Enter a valid Rating between 1-5
+Enter a valid Rating between 1-5
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Login Successful
+***WELCOME RESPONDENT***
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+Respond to survey
+Enter surveyId to respond:which must be between [0-9] and min 1 and max 10
+1. How much you are Satisfied with Our Big Basket Application
+ 
+Select your option
+1. Good
+
+2. Not Bad
+
+3. Very Good
+
+4. Bad
+
+submit your option:from [1-4]
+2. How is our delivery service
+
+Select your option
+1. Good
+
+2. Not Bad
+
+3. Very Good
+
+4. Bad
+
+submit your option from [1-4]
+3. Please rate us from [1-5]
+
+Enter your Rating from[0-10]
+Enter a valid Rating between the range 0-10 
+Enter a valid Rating between the range 0-10 
+4. If,Any complaints regarding our app please mention
+
+Enter your answer in a single line: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Enter a valid Answer: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Login Successful
+***WELCOME RESPONDENT***
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+Respond to survey
+Enter surveyId to respond:which must be between [0-9] and min 1 and max 10
+1. How much you are Satisfied with Our Big Basket Application
+ 
+Select your option
+1. Good
+
+2. Not Bad
+
+3. Very Good
+
+4. Bad
+
+submit your option:from [1-4]
+2. How is our delivery service
+
+Select your option
+1. Good
+
+2. Not Bad
+
+3. Very Good
+
+4. Bad
+
+submit your option from [1-4]
+3. Please rate us from [1-5]
+
+Enter your Rating :
+Enter a valid Rating between the range 0-10 
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Login Successful
+***WELCOME RESPONDENT***
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+Respond to survey
+Enter surveyId to respond:which must be between [0-9] and min 1 and max 10
+1. How much you are Satisfied with Our Big Basket Application
+ 
+Select your option
+1. Good
+
+2. Not Bad
+
+3. Very Good
+
+4. Bad
+
+submit your option:from [1-4]
+2. How is our delivery service
+
+Select your option
+1. Good
+
+2. Not Bad
+
+3. Very Good
+
+4. Bad
+
+submit your option from [1-4]
+3. Please rate us from [1-5]
+
+Enter your Rating :
+Enter a valid Rating between the range 0-10 
+4. If,Any complaints regarding our app please mention
+
+Enter your answer :
+Enter a valid Answer: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 20
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+Enter username: 
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+UserName: null
+Password: null
+Enter username: 
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Respondent Login Successful
+***WELCOME RESPONDENT***
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+Respond to survey
+Enter surveyId to respond:which must be between [0-9] and min 1 and max 10
+1. How much you are Satisfied with Our Big Basket Application
+ 
+Select your option
+1. Good
+
+2. Not Bad
+
+3. Very Good
+
+4. Bad
+
+submit your option:from [1-4]
+2. How is our delivery service
+
+Select your option
+1. Good
+
+2. Not Bad
+
+3. Very Good
+
+4. Bad
+
+submit your option from [1-4]
+3. Please rate us from [0-10]
+
+Enter your Rating :
+Enter a valid Rating between the range 0-10 
+4. If,Any complaints regarding our app please mention
+
+Enter your answer :
+Enter a valid Answer: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 20
+Enter a valid Answer: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 20
+Enter a valid Answer: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 20
+Enter a valid Answer: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 20
+Enter a valid Answer: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 20
+Enter a valid Answer: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 20
+Enter a valid Answer: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 20
+Enter a valid Answer: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 20
+Enter a valid Answer: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 20
+Enter a valid Answer: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 20
+Enter a valid Answer: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 20
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Respondent Login Successful
+***WELCOME RESPONDENT***
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+Respond to survey
+Enter surveyId to respond:which must be between [0-9] and min 1 and max 10
+1. How much you are Satisfied with Our Big Basket Application
+ 
+Select your option
+1. Good
+
+2. Not Bad
+
+3. Very Good
+
+4. Bad
+
+submit your option:from [1-4]
+2. How is our delivery service
+
+Select your option
+1. Good
+
+2. Not Bad
+
+3. Very Good
+
+4. Bad
+
+submit your option from [1-4]
+3. Please rate us from [0-10]
+
+Enter your Rating :
+4. If,Any complaints regarding our app please mention
+
+Enter your answer :
+Enter a valid Answer: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 20
+Enter a valid Answer: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 20
+Enter a valid Answer: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 20
+Enter a valid Answer: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 20
+Enter a valid Answer: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 20
+Enter a valid Answer: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 20
+Enter a valid Answer: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 20
+Enter a valid Answer: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 20
+Enter a valid Answer: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 20
+Enter a valid Answer: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 20
+Enter a valid Answer: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 20
+Enter a valid Answer: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 20
+Enter a valid Answer: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 20
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+ Enter valid choice from [1-4]
+respondentUsername: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Respondent Login Successful
+***WELCOME RESPONDENT***
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+Respond to survey
+Enter surveyId to respond:which must be between [0-9] and min 1 and max 10
+1. How much you are Satisfied with Our Big Basket Application
+ 
+Select your option
+1. Good
+
+2. Not Bad
+
+3. Very Good
+
+4. Bad
+
+submit your option:from [1-4]
+2. How is our delivery service
+
+Select your option
+1. Good
+
+2. Not Bad
+
+3. Very Good
+
+4. Bad
+
+submit your option from [1-4]
+3. Please rate us from [0-10]
+
+Enter your Rating :
+4. If,Any complaints regarding our app please mention
+
+Enter your answer :
+5. Please Share Your Experience with Our Big Basket App
+
+Enter your answer :
+Responses added Successfully
+
+***WELCOME RESPONDENT***
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+View Response
+please enter respondentId to view: which must be between [0-9] and min 1 and max 10
+
+***WELCOME RESPONDENT***
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+view All Responded Surveyes
+view all Responded Surveyes
+[RespondentDetails [respondentId=1
+ answer1=Good
+ answer2=Not Bad
+ answer3=4.5
+ answer4=Delivery time for products can be improved
+ answer5=The Experience with this application is really good but if some changes are madeit will be too good
+ surveyId=1
+], RespondentDetails [respondentId=2
+ answer1=Very Good
+ answer2=Good
+ answer3=3.0
+ answer4=Sometimes the application is not working properly
+ answer5=Phonepe is really Good it made our day easy with single click we are able to made transactions
+ surveyId=2
+]]
+***WELCOME RESPONDENT***
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+View Response
+please enter respondentId to view: which must be between [0-9] and min 1 and max 10
+
+***WELCOME RESPONDENT***
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Surveyor Login Successful
+Please select any one of the following options:
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Logged Out Successfully
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+adminUsername: admin
+adminPassword: admin
+Enter username: 
+Enter password: 
+Login Successful
+Please select any of the following options 
+1.Add Surveyor
+2.Add Respondent
+3.Login as Surveyor
+4.Login as Respondent
+5.View all Surveyors
+6.View all Respondents
+7.Exit
+Surveyor Login
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Surveyor Login Successful
+Please select any one of the following options:
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Logged Out Successfully
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+adminUsername: admin
+adminPassword: admin
+Enter username: 
+Enter password: 
+Login Successful
+Please select any of the following options 
+1.Add Surveyor
+2.Add Respondent
+3.Login as Surveyor
+4.Login as Respondent
+5.View all Surveyors
+6.View all Respondents
+7.Exit
+Logged Out Successfully
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+adminUsername: admin
+adminPassword: admin
+Enter username: 
+Enter password: 
+Login Successful
+Please select any of the following options 
+1.Add Surveyor
+2.Add Respondent
+3.Login as Surveyor
+4.Login as Respondent
+5.View all Surveyors
+6.View all Respondents
+7.Exit
+Surveyor Login
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Surveyor Login Successful
+Please select any one of the following options:
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+Logged Out Successfully
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+respondentUsername: respondent
+respondentPassword: respondent
+Enter username: 
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+adminUsername: admin
+adminPassword: admin
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+adminUsername: admin
+adminPassword: admin
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+adminUsername: admin
+adminPassword: admin
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+adminUsername: admin
+adminPassword: admin
+Enter username: 
+Enter password: 
+Login Successful
+Please select any of the following options 
+1.Add Surveyor
+2.Add Respondent
+3.Login as Surveyor
+4.Login as Respondent
+5.View all Surveyors
+6.View all Respondents
+7.Exit
+Add Surveyor
+Enter Surveyor Id :
+Enter Surveyor Username:
+Enter  Surveyor password:
+Enter mailId:
+Enter Contact Number:
+Surveyor added sucessfully
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+respondentUsername: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Respondent Login Successful
+***WELCOME RESPONDENT***
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+Logged Out Successfully
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+respondentUsername: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Respondent Login Successful
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+view All Responded Surveys
+view all Responded Surveys
+[RespondentDetails [respondentId=1
+ answer1=Good
+ answer2=Not Bad
+ answer3=4.5
+ answer4=Delivery time for products can be improved
+ answer5=The Experience with this application is really good but if some changes are madeit will be too good
+ surveyId=1
+], RespondentDetails [respondentId=2
+ answer1=Very Good
+ answer2=Good
+ answer3=3.0
+ answer4=Sometimes the application is not working properly
+ answer5=Phonepe is really Good it made our day easy with single click we are able to made transactions
+ surveyId=2
+]]
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Respondent Login Successful
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+View Response
+please enter respondentId to view:
+
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Respondent Login Successful
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+View Response
+please enter respondentId to view:
+
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Respondent Login Successful
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+View Response
+please enter respondentId to view:
+Respondent ID Not Found
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Respondent Login Successful
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+View Response
+please enter respondentId to view:
+Respondent ID Not Found
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Respondent Login Successful
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+View Response
+please enter respondentId to view:
+Respondent ID Not Found
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+view All Responded Surveys
+view all Responded Surveys
+[RespondentDetails [respondentId=1
+ answer1=Good
+ answer2=Not Bad
+ answer3=4.5
+ answer4=Delivery time for products can be improved
+ answer5=The Experience with this application is really good but if some changes are madeit will be too good
+ surveyId=1
+], RespondentDetails [respondentId=2
+ answer1=Very Good
+ answer2=Good
+ answer3=3.0
+ answer4=Sometimes the application is not working properly
+ answer5=Phonepe is really Good it made our day easy with single click we are able to made transactions
+ surveyId=2
+]]
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+Respond to survey
+Enter surveyId to respond:which must be between [0-9] and min 1 and max 10
+1. How much you are Satisfied with Our Big Basket Application
+ 
+Select your option
+1. Good
+
+2. Not Bad
+
+3. Very Good
+
+4. Bad
+
+submit your option:from [1-4]
+2. How is our delivery service
+
+Select your option
+1. Good
+
+2. Not Bad
+
+3. Very Good
+
+4. Bad
+
+submit your option from [1-4]
+3. Please rate us from [0-10]
+
+Enter your Rating :
+4. If,Any complaints regarding our app please mention
+
+Enter your answer :
+5. Please Share Your Experience with Our Big Basket App
+
+Enter your answer :
+Responses added Successfully
+
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Respondent Login Successful
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+Respond to survey
+Enter surveyId to respond:which must be between [0-9] and min 1 and max 10
+1. How much you are Satisfied with Our Big Basket Application
+ 
+Select your option
+1. Good
+
+2. Not Bad
+
+3. Very Good
+
+4. Bad
+
+submit your option:from [1-4]
+2. How is our delivery service
+
+Select your option
+1. Good
+
+2. Not Bad
+
+3. Very Good
+
+4. Bad
+
+submit your option from [1-4]
+3. Please rate us from [0-10]
+
+Enter your Rating :
+4. If,Any complaints regarding our app please mention
+
+Enter your answer :
+5. Please Share Your Experience with Our Big Basket App
+
+Enter your answer :
+Responses added Successfully
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Respondent Login Successful
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+View Response
+please enter respondentId to view:
+Respondent ID Not Found
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+View Response
+please enter respondentId to view:
+Respondent ID Not Found
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Respondent Login Successful
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+Respond to survey
+Enter surveyId to respond:which must be between [0-9] and min 1 and max 10
+1. How much you are Satisfied with Our Big Basket Application
+ 
+Select your option
+1. Good
+
+2. Not Bad
+
+3. Very Good
+
+4. Bad
+
+submit your option:from [1-4]
+2. How is our delivery service
+
+Select your option
+1. Good
+
+2. Not Bad
+
+3. Very Good
+
+4. Bad
+
+submit your option from [1-4]
+3. Please rate us from [0-10]
+
+Enter your Rating :
+4. If,Any complaints regarding our app please mention
+
+Enter your answer :
+5. Please Share Your Experience with Our Big Basket App
+
+Enter your answer :
+Enter a valid Answer: Accepts only[a-z][A-Z][0-9]space[.]min: 1 and max: 100
+Responses added Successfully
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+View Response
+please enter respondentId to view:
+Respondent ID Not Found
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+view All Responded Surveys
+view all Responded Surveys
+[RespondentDetails [respondentId=1
+ answer1=Good
+ answer2=Not Bad
+ answer3=4.5
+ answer4=Delivery time for products can be improved
+ answer5=The Experience with this application is really good but if some changes are madeit will be too good
+ surveyId=1
+], RespondentDetails [respondentId=2
+ answer1=Very Good
+ answer2=Good
+ answer3=3.0
+ answer4=Sometimes the application is not working properly
+ answer5=Phonepe is really Good it made our day easy with single click we are able to made transactions
+ surveyId=2
+]]
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+Logged Out Successfully
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Respondent Login Successful
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+View Response
+please enter respondentId to view:
+Respondent ID Not Found
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Respondent Login Successful
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+Respond to survey
+Enter surveyId to respond:which must be between [0-9] and min 1 and max 10
+1. How much you are Satisfied with Our Big Basket Application 
+Select your option
+1. Good
+2. Not Bad
+3. Very Good
+4. Bad
+submit your option:from [1-4]
+2. How is our delivery service
+Select your option
+1. Good
+2. Not Bad
+3. Very Good
+4. Bad
+submit your option from [1-4]
+3. Please rate us from [0-10]
+Enter your Rating :
+4. If,Any complaints regarding our app please mention
+Enter your answer :
+5. Please Share Your Experience with Our Big Basket App
+Enter your answer :
+Responses added Successfully
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+View Response
+please enter respondentId to view:
+RespondentDetails [respondentId=1 answer1=Good answer2=Not Bad answer3=4.5 answer4=Delivery time for products can be improved answer5=The Experience with this application is really good but if some changes are madeit will be too good surveyId=1]
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+view All Responded Surveys
+view all Responded Surveys
+[RespondentDetails [respondentId=1 answer1=Good answer2=Not Bad answer3=4.5 answer4=Delivery time for products can be improved answer5=The Experience with this application is really good but if some changes are madeit will be too good surveyId=1], RespondentDetails [respondentId=2 answer1=Very Good answer2=Good answer3=3.0 answer4=Sometimes the application is not working properly answer5=Phonepe is really Good it made our day easy with single click we are able to made transactions surveyId=2]]
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+Logged Out Successfully
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Respondent Login Successful
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+view All Responded Surveys
+view all Responded Surveys
+[RespondentDetails [respondentId=1
+ answer1=Good
+ answer2=Not Bad
+ answer3=4.5 
+ answer4=Delivery time for products can be improved 
+ answer5=The Experience with this application is really good but if some changes are madeit will be too good
+ surveyId=1], RespondentDetails [respondentId=2
+ answer1=Very Good
+ answer2=Good
+ answer3=3.0 
+ answer4=Sometimes the application is not working properly 
+ answer5=Phonepe is really Good it made our day easy with single click we are able to made transactions
+ surveyId=2]]
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+surveyorUsername: surveyor
+surveyorPassword: surveyor
+Enter username: 
+Enter password: 
+Surveyor Login Successful
+Please select any one of the following options:
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+View Survey
+please enter the survey title to view:
+enter valid SurveyTitle: Accepts only [a-z][A-Z][.]space,min: 1 and max: 100
+SurveyDetails [surveyId=1
+ surveyTitle=Big Basket
+ surveyDescription=Big Basket is the Online supermarket,It offers groceries,Food,Vegetables...any many more for its customers
+ question1=How much you are Satisfied with Our Big Basket Application 
+ q1Option1=Good
+ q1Option2=Not Bad
+ q1Option3=Very Good
+ q1Option4=Bad
+ question2=How is our delivery service 
+  q2Option1=Good
+ q2Option2=Not Bad
+ q2Option3=Very Good
+ q2Option4=Bad
+ question3=Please rate us from [0-10]
+ question4=If,Any complaints regarding our app please mention
+ question5=Please Share Your Experience with Our Big Basket App]
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+adminUsername: admin
+adminPassword: admin
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+adminUsername: admin
+adminPassword: admin
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+adminUsername: admin
+adminPassword: admin
+Enter username: 
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+adminUsername: admin
+adminPassword: admin
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+adminUsername: admin
+adminPassword: admin
+Enter username: 
+Enter password: 
+Admin Login Successful
+Please select any of the following options 
+1.Add Surveyor
+2.Add Respondent
+3.Login as Surveyor
+4.Login as Respondent
+5.View all Surveyors
+6.View all Respondents
+7.Exit
+Logged Out Successfully
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+Please Enter valid choice
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+ Enter valid choice from [1-4]
+adminUsername: admin
+adminPassword: admin
+Enter username: 
+Enter password: 
+Admin Login Successful
+Please select any of the following options 
+1.Add Surveyor
+2.Add Respondent
+3.Login as Surveyor
+4.Login as Respondent
+5.View all Surveyors
+6.View all Respondents
+7.Exit
+All Respondents
+Details of all Respondents !!
+[RespondentBean [respondentUsername=respondent, respondentPassword=respondent, respondentContactNumber=8978408575, respondentMailId=respondent@gmail.com]]
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Respondent Login Successful
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+Respond to survey
+Enter surveyId to respond:which must be between [0-9] and min 1 and max 10
+1. How much you are Satisfied with Our Big Basket Application 
+Select your option
+1. Good
+2. Not Bad
+3. Very Good
+4. Bad
+submit your option:from [1-4]
+2. How is our delivery service
+Select your option
+1. Good
+2. Not Bad
+3. Very Good
+4. Bad
+submit your option from [1-4]
+3. Please rate us from [0-10]
+Enter your Rating :
+Enter a valid Rating between the range 0-10 
+4. If,Any complaints regarding our app please mention
+Enter your answer :
+5. Please Share Your Experience with Our Big Basket App
+Enter your answer :
+Responses added Successfully
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+respondentUsername: respondent
+respondentPassword: respondent
+Enter username: 
+Enter password: 
+Respondent Login Successful
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+view All Responded Surveys
+view all Responded Surveys
+[RespondentDetails [respondentId=1
+ answer1=Good
+ answer2=Not Bad
+ answer3=4.5 
+ answer4=Delivery time for products can be improved 
+ answer5=The Experience with this application is really good but if some changes are madeit will be too good
+ surveyId=1], RespondentDetails [respondentId=2
+ answer1=Very Good
+ answer2=Good
+ answer3=3.0 
+ answer4=Sometimes the application is not working properly 
+ answer5=Phonepe is really Good it made our day easy with single click we are able to made transactions
+ surveyId=2]]
+1.Respond to Survey
+2.View Response
+3.View all responded surveyes
+4.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+Enter username: 
+Enter password: 
+Respondent Login Successful
+1.Respond to Survey
+2.View Response
+3.View all responded surveys
+4.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+Enter username: 
+Enter password: 
+Admin Login Successful
+Please select any of the following options 
+1.Add Surveyor
+2.Add Respondent
+3.Login as Surveyor
+4.Login as Respondent
+5.View all Surveyors
+6.View all Respondents
+7.Exit
+choose your option
+1.Admin Login 
+2.Surveyor Login
+3.Respondent Login
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+Enter username: 
+Enter password: 
+Login Failed!
+Please enter Valid UserName or Password!!
+Enter username: 
+Enter password: 
+Surveyor Login Successful
+Please select any one of the following options:
+1.Create survey
+2.Update survey
+3.Delete survey
+4.View survey
+5.view AllSurveys
+6.Exit
+choose your option
+choose your option
+1.Admin Login 
+2.Surveyor Login
+1.Admin Login 
+3.Respondent Login
+2.Surveyor Login
+3.Respondent Login
+choose your option
+choose your option
+choose your option
+1.Admin Login 
+1.Admin Login 
+1.Admin Login 
+2.Surveyor Login
+2.Surveyor Login
+2.Surveyor Login
+3.Respondent Login
+3.Respondent Login
+3.Respondent Login
